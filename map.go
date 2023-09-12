@@ -21,3 +21,4 @@ func main() {
 	delete(book, "ups")
 	fmt.Println(book)
 }
+
